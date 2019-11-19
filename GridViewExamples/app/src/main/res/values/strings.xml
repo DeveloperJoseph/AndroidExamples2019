@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GridViewExamples</string>
+    <string name="mygridview">GRIDVIEW LIST</string>
+    <string name="mygridviewpersonas">LIST OF PERSONAS WITH IMAGE</string>
+    <string name="nameProductTextView">Product Name:</string>
+    <string name="idProductTextView">Product ID:</string>
+    <string name="priceProductTextView">Product Price:</string>
+    <string name="photoProductTextView">Product Photo:</string>
+</resources>
